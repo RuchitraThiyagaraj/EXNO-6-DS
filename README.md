@@ -1,22 +1,14 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
-
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
-
 # EXPLANATION:
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
-
 # Algorithm:
 STEP 1:Include the necessary Library.
-
 STEP 2:Read the given Data.
-
 STEP 3:Apply data visualization techniques to identify the patterns of the data.
-
 STEP 4:Apply the various data visualization tools wherever necessary.
-
 STEP 5:Include Necessary parameters in each functions.
-
 # Coding and Output:
 Developed by:RUCHITRA.T
 Register no:212223110043
@@ -70,7 +62,6 @@ sns.set(style='whitegrid')
 sns.violinplot(x=df["total_bill"])
 sns.kdeplot(data=df,x="total_bill",hue="time",multiple='fill',linewidth=3,palette="Set2",alpha=0.8)
 sns.kdeplot(data=df,x="total_bill",hue="time",multiple="layer",linewidth=3,palette="Set2",alpha=0.8)
-
 ## output
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/2aae054f-409f-4d2c-96c5-ca1cb5ed913e)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/d3a9f4aa-7c7c-43d8-ace1-adb8a4e3ff28)
@@ -83,7 +74,6 @@ sns.kdeplot(data=df,x="total_bill",hue="time",multiple="layer",linewidth=3,palet
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/50f38b9d-344f-4c06-bb3f-ac07af97fcdd)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/89730294-47f4-4a59-8cd5-ade7b0a0f244)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/f6d9169c-1266-4558-9ce0-a312cf4c2b9a)
-![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/3b14e262-0421-4de5-935f-85e3fe5ed453)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/e6088d24-e109-47f3-93bf-3d01617fc22a)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/4be65981-f717-4e22-8bf3-93195dd137d9)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/d62b05af-abdb-4f21-9134-1c5d5550cf08)
