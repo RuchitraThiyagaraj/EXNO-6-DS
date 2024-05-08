@@ -74,7 +74,6 @@ sns.kdeplot(data=df,x="total_bill",hue="time",multiple="layer",linewidth=3,palet
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/4ab660da-d7ca-40b1-a93a-865f49183486)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/bd56040f-b31b-433f-8cf3-1d6e36e713b0)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/a676e1e0-2a0c-48e7-862c-a34c720df965)
-![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/50f38b9d-344f-4c06-bb3f-ac07af97fcdd)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/89730294-47f4-4a59-8cd5-ade7b0a0f244)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/f6d9169c-1266-4558-9ce0-a312cf4c2b9a)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/e6088d24-e109-47f3-93bf-3d01617fc22a)
