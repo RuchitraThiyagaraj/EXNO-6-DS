@@ -9,7 +9,9 @@ STEP 2:Read the given Data.
 STEP 3:Apply data visualization techniques to identify the patterns of the data.
 STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
+
 # Coding and Output:
+~~~
 Developed by:RUCHITRA.T
 Register no:212223110043
 import seaborn as sns
@@ -62,6 +64,7 @@ sns.set(style='whitegrid')
 sns.violinplot(x=df["total_bill"])
 sns.kdeplot(data=df,x="total_bill",hue="time",multiple='fill',linewidth=3,palette="Set2",alpha=0.8)
 sns.kdeplot(data=df,x="total_bill",hue="time",multiple="layer",linewidth=3,palette="Set2",alpha=0.8)
+~~~
 ## output
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/2aae054f-409f-4d2c-96c5-ca1cb5ed913e)
 ![image](https://github.com/RuchitraThiyagaraj/EXNO-6-DS/assets/154776996/d3a9f4aa-7c7c-43d8-ace1-adb8a4e3ff28)
